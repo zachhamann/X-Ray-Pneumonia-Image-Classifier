@@ -1,0 +1,3 @@
+This notebook project compares the performance of three neural network models at classifying X-Ray images for the presence of pneumonia, using image data sourced from Paul Mooney's Chest X-Ray Images (Pneumonia) set from Kaggle (https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/). 
+The networks include a CNN-based architecture, a Visual Transformer based architecture, and an instance of Keras EfficientNetB1. All models are constructed using Tensorflow's Keras API. The attached .ipynb file includes the details for cleaning and preparing the dataset, constructing the models, and the
+performance metrics for how they handled the test data.
